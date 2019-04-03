@@ -6,7 +6,6 @@ import './App.css';
 class MoviePage extends Component {
   constructor(props){
     super(props)
-    console.log(this.props)
   }
 
   backClick(){
