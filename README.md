@@ -1,9 +1,9 @@
 
 ## Run in terminal
-npm install
+npm install  
 npm run
 
 ## npm packages added 
 
--react router
+-react router  
 -history
